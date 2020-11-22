@@ -1,2 +1,3 @@
 # Cassava-Leaf-Disease-Classification-Kaggle-Challenge
-Deep Learning Image Classification Challenge
+On-Going Image Classification Challenge on Kaggle
+
